@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "絵画警備.slnx"
+    "dotnet.defaultSolution": "kaiga-keibi.slnx"
 }
