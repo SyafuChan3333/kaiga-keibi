@@ -12478,7 +12478,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PaintingAnomaly
   anomalyType: 0
-  normalMaterial: {fileID: 2100000, guid: e5bd45492f1e99642bb848eb27461329, type: 2}
+  normalMaterial: {fileID: 2100000, guid: 9cd5116a63fb9824c8d979ba90be7c11, type: 2}
   anomalyMaterial: {fileID: 2100000, guid: c1b1c34874de9fe4fa1f7480c3cbc437, type: 2}
   tiltAngle: 8
   moveX: 0.5
